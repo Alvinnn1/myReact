@@ -1,0 +1,23 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #FFFFFF;
+    color: #000000;
+    font-size: 20px;
+}
+.input-box{
+    border-bottom: 5px solid #969696;
+    padding: 0 5px;
+
+}
+.ul-style{
+    padding: 20px 40px 0 40px;
+}
+.li-style{
+    padding: 15px 10px;
+    list-style: none;
+    border-bottom: 1px solid #969696;
+}
+.image{
+    margin-right: 20px;
+}
